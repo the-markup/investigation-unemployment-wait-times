@@ -8,8 +8,8 @@ The data for our analysis can be found in the `data` folder.
 
 This folder contains the data, as it was provided to us by the state of Florida, and used in reporting our story. 
 
-**`data/Contact Center Activity Report - Titan 06-08-2020 - 8am.xlsx`**
-**`data/Titan FL DEO Contact Center Daily Report 05-17-2020 (1).xlsx`**
+- **`data/Contact Center Activity Report - Titan 06-08-2020 - 8am.xlsx`**
+- **`data/Titan FL DEO Contact Center Daily Report 05-17-2020 (1).xlsx`**
 
 Data Dictionary (provided by state and included in `data/Titan FL DEO Contact Center Daily Report 05-17-2020 (1).xlsx`):
 
