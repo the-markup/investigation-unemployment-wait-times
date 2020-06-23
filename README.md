@@ -27,3 +27,7 @@ Data Dictionary (provided by state and included in `data/Titan FL DEO Contact Ce
 | Average Speed of Answer | The average amount of time it took an agent to answer a call after the contact chose the option to speak to an agent.
 | Average Talk Time | The average amount of time a contact spent speaking with an agent, including hold time and conference time.
 | Average Handle Time| The average amount of time an agent spent handling a contact.|
+|Average Hold Time	|The average amount of time contacts spent on hold with agents.	\[Hold Time] / \[Held]|
+|Longest Delay|	The longest amount of time a contact spent in queue for a particular period of time.	MAX(\[Inqueue Time])
+|Calls Answered in <=60s	|The number of call handled in less than or equal to 60 seconds.	\[Handled] <=60 seconds
+|% of calls answered in <=60s	|Percent of calls handled in  less than or equal to 60 seconds.	\[Handled] / (\[Queued] + \[Outbound]) <= 60s
